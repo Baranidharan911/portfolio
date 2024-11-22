@@ -119,14 +119,14 @@ const Projects = () => {
           >
             WEB APP"S
           </ToggleButton>
-          {/* <Divider />
+          <Divider />
           <ToggleButton
             active={toggle === "android app"}
             onClick={() => setToggle("android app")}
           >
             ANDROID APP'S
           </ToggleButton>
-          <Divider /> */}
+          <Divider />
           <ToggleButton
             active={toggle === "machine learning"}
             onClick={() => setToggle("machine learning")}
